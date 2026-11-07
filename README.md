@@ -1,5 +1,7 @@
 # 2026 F1 Energy Deployment Analysis
 
+> **Status: in progress.** Results, charts and code will be added here as each stage is completed.
+
 ## Question
 
 Under the 2026 Formula 1 regulations, roughly half of the car's power comes from the electric motor. **Where on a lap do cars run short of electrical energy, and how much speed does that cost?**
