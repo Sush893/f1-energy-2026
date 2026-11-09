@@ -1,0 +1,13 @@
+Session,Check,Flagged,Samples,Percent
+Q,gap,29,3066,0.95
+Q,impossible_accel,4,3066,0.13
+Q,frozen,53,3066,1.73
+Q,throttle_over_100,29,3066,0.95
+Q,throttle_brake_overlap,58,3066,1.89
+Q,any,84,3066,2.74
+R,gap,38,3110,1.22
+R,impossible_accel,2,3110,0.06
+R,frozen,63,3110,2.03
+R,throttle_over_100,48,3110,1.54
+R,throttle_brake_overlap,74,3110,2.38
+R,any,103,3110,3.31
