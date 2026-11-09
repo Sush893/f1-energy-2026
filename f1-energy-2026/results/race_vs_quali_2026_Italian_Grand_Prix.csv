@@ -1,0 +1,36 @@
+Driver,Team,Straight,StartFrac,SpeedFrom_kmh,SpeedTo_kmh,Delta_kW,Delta_low,Delta_high
+ANT,Mercedes,1-13% of lap,0.006,317.5,327.5,-260,-268,-250
+ANT,Mercedes,17-34% of lap,0.174,207.5,302.5,6,3,9
+ANT,Mercedes,38-42% of lap,0.378,177.5,222.5,-88,-92,-84
+ANT,Mercedes,70-87% of lap,0.698,242.5,317.5,-42,-45,-39
+ANT,Mercedes,91-100% of lap,0.908,232.5,277.5,146,139,152
+COL,Alpine,51-67% of lap,0.513,217.5,307.5,-145,-151,-138
+COL,Alpine,71-88% of lap,0.708,237.5,317.5,67,63,71
+COL,Alpine,92-100% of lap,0.916,237.5,282.5,94,89,98
+GAS,Alpine,0-13% of lap,0.001,312.5,327.5,-397,-409,-383
+GAS,Alpine,39-44% of lap,0.393,172.5,222.5,-9,-11,-6
+GAS,Alpine,51-67% of lap,0.511,227.5,312.5,-124,-129,-119
+GAS,Alpine,70-87% of lap,0.703,252.5,317.5,17,15,20
+GAS,Alpine,91-100% of lap,0.913,242.5,282.5,164,157,171
+HAM,Ferrari,0-14% of lap,0.001,327.5,337.5,-223,-231,-215
+HAM,Ferrari,17-34% of lap,0.174,202.5,297.5,-1,-4,2
+HAM,Ferrari,50-66% of lap,0.5,212.5,302.5,-104,-109,-99
+HAM,Ferrari,70-87% of lap,0.7,242.5,307.5,-114,-118,-109
+HAM,Ferrari,90-100% of lap,0.903,237.5,282.5,156,149,162
+LIN,Racing Bulls,18-35% of lap,0.175,217.5,287.5,-99,-104,-93
+LIN,Racing Bulls,50-66% of lap,0.505,227.5,302.5,-72,-76,-68
+LIN,Racing Bulls,91-100% of lap,0.911,242.5,287.5,159,152,166
+NOR,McLaren,18-34% of lap,0.175,217.5,307.5,15,12,19
+NOR,McLaren,50-65% of lap,0.501,222.5,317.5,-90,-94,-85
+NOR,McLaren,91-100% of lap,0.908,242.5,287.5,150,143,156
+PIA,McLaren,51-66% of lap,0.512,247.5,317.5,-61,-65,-57
+PIA,McLaren,91-100% of lap,0.908,242.5,282.5,182,173,189
+RUS,Mercedes,0-13% of lap,0.001,317.5,327.5,-280,-289,-270
+RUS,Mercedes,17-34% of lap,0.173,232.5,307.5,37,33,41
+RUS,Mercedes,50-66% of lap,0.5,237.5,322.5,-42,-46,-38
+RUS,Mercedes,70-87% of lap,0.697,237.5,317.5,-43,-47,-40
+RUS,Mercedes,90-100% of lap,0.901,237.5,282.5,204,195,212
+VER,Red Bull Racing,17-34% of lap,0.173,217.5,302.5,48,44,53
+VER,Red Bull Racing,50-66% of lap,0.501,217.5,312.5,-60,-64,-56
+VER,Red Bull Racing,70-87% of lap,0.696,242.5,312.5,-82,-85,-78
+VER,Red Bull Racing,90-100% of lap,0.899,237.5,287.5,137,131,142
