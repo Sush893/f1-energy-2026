@@ -1,0 +1,9 @@
+# FastF1 download cache (large, re-creatable)
+cache/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
